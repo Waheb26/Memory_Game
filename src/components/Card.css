@@ -1,0 +1,32 @@
+/*.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 5dvw;
+  margin-left: 15dvw;
+  width: 70dvw;
+  gap: 5dvw;
+}
+.image-div {
+  max-width: 12dvw;
+  display: flex;
+  flex-wrap: wrap;
+}
+/*
+.flip-card{
+background-color: tra;
+}
+.flip-card-front {
+  background-color: bisque;
+}
+.flip-card-back {
+  transform: rotateY(180deg);
+}
+.flip-card-inner {
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.flip-card-inner,
+.flip-card:hover {
+  transform: rotateY(180deg);
+} */

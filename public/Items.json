@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Arya",
+      "src": "assets/Arya.png"
+    },
+    {
+      "id": 2,
+      "title": "Cersei",
+      "src": "assets/cersei.png"
+    },
+    {
+      "id": 3,
+      "title": "Daenerys",
+      "src": "/assets/daenerys.png"
+    },
+
+    {
+      "id": 4,
+      "title": "Jon Snow",
+      "src": "assets/johnSnow.png"
+    },
+
+    {
+      "id": 5,
+      "title": "Khal Drogo",
+      "src": "assets/khaldrogo.png"
+    },
+
+    {
+      "id": 6,
+      "title": "Sansa",
+      "src": "assets/sansa.png"
+    },
+
+    {
+      "id": 7,
+      "title": "Tyrion",
+      "src": "assets/tyrion.png"
+    },
+    {
+      "id": 8,
+      "title": "Brienne",
+      "src": "assets/brienne.png"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+/*#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}*/
+
+body {
+  background: url("https://www.esportsportal.com/wp-content/uploads/2019/06/game-of-thrones-a-telltale-games-series-hd-wallpapers-33155-7585082.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  margin-left: 35dvw;
+  margin-top: -8dvw;
+  margin-bottom: -2dvh;
+  text-shadow: -1px -1px 0 #f8f8f8, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000, 1px 1px 2px #141414, 1px 1px 3px #141414,
+    1px 1px 5px #141414, 1px 1px 7px #141414, 1px 1px 10px #141414,
+    1px 1px 12px #f7f7f7, 1px 1px 18px #f9f4f4;
+  color: #f0c42d;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 3dvw;
+}
+.logo {
+  margin-left: -7dvw;
+  margin-top: -4dvh;
+  width: 15dvw;
+  border: none;
+}
+
+.Header {
+  margin-top: -5dvh;
+  padding: 3dvw;
+}
